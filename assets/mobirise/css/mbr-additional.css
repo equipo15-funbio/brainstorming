@@ -820,6 +820,11 @@ a {
 .cid-sc9inqksca .social-row {
   text-align: right;
 }
+.cid-sc9ktNf6vb {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
 .cid-sc9jC2SPOe {
   padding-top: 3rem;
   padding-bottom: 5rem;
@@ -947,11 +952,6 @@ a {
   .cid-sc9jC2SPOe .carousel-indicators {
     display: none !important;
   }
-}
-.cid-sc9ktNf6vb {
-  padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
 }
 .cid-sc9ieltAk7 {
   padding-top: 15px;
